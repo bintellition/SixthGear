@@ -1,0 +1,14 @@
+{
+  "name": "SixthGear",
+  "version": "0.1.0",
+  "description": "Sixth Gear - Vehicle Wallet",
+  "main": "server.js",
+  "author": {
+    "name": "Business Intellition",
+    "email": "bintellition@outlook.com"
+  },
+  "dependencies": {
+    "express": "~4.13.4",
+    "underscore": "~1.8.3"
+  }
+}
